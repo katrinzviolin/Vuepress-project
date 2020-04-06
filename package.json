@@ -11,14 +11,14 @@
   },
   "repository": {
       "type": "git",
-      "url": "git+https://github.com/SerhiiZavalko/Vuepress-project.git"
+      "url": "git+https://github.com/katrinzviolin/Vuepress-project.git"
   },
   "keywords": [],
   "author": "",
   "bugs": {
-      "url": "https://github.com/SerhiiZavalko/Vuepress-project/issues"
+      "url": "https://github.com/katrinzviolin/Vuepress-project/issues"
   },
-  "homepage": "https://github.com/SerhiiZavalko/Vuepress-project#readme",
+  "homepage": "https://github.com/katrinzviolin/Vuepress-project#readme",
   "devDependencies": {
     "vuepress": "^1.4.0"
   }
